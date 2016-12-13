@@ -1,0 +1,16 @@
+name: Problem01
+version: 1.0
+cabal-version: 1.11
+build-type: Simple
+license: AllRightsReserved
+stability: experimental
+data-files:
+    input.txt
+x-ghc-framework-version: 7.10.3-5.18-1
+x-last-ide-version: HfM1.3.0
+Executable Problem01
+  main-is: Problem_01.hs
+  buildable: True
+  build-depends:
+      split -any,
+      base -any

@@ -1,0 +1,8 @@
+-- Haskell Playground 1.0
+
+main
+
+--["bab"]!!0
+
+
+take 4 "HELLOworld"
